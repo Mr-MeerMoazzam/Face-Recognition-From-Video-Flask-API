@@ -1,0 +1,2 @@
+# Face-Recognition-From-Video-Flask-API
+In this repository, we are going to build a web application for face recognition from video using Flask framework. We will use opencv to process the video frames. The user will submit a form containing input parameters. I have used a very basic design for the front-end since the main motive behind the project was to familiarize with the flask web-framework for processing videos frame by frame.
